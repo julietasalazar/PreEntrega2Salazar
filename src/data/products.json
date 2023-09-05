@@ -1,0 +1,84 @@
+[
+    {
+        "id": "1",
+        "title": "prueba",
+        "description": "h1",
+        "price": 100,
+        "pictureUrl": "",
+        "category": "hogar"
+
+    },
+    {
+        "id": "2",
+        "title": "h2",
+        "description": "",
+        "price": 100,
+        "pictureUrl": "",
+        "category": "hogar"
+
+    },
+    {
+        "id": "3",
+        "title": "h3",
+        "description": "",
+        "price": 100,
+        "pictureUrl": "",
+        "category": "hogar"
+
+    },
+    {
+        "id": "4",
+        "title": "l1",
+        "description": "",
+        "price": 100,
+        "pictureUrl": "",
+        "category": "librería"
+
+    },
+    {
+        "id": "5",
+        "title": "l2",
+        "description": "",
+        "price": 100,
+        "pictureUrl": "",
+        "category": "librería"
+
+    },
+    {
+        "id": "6",
+        "title": "l3",
+        "description": "",
+        "price": 100,
+        "pictureUrl": "",
+        "category": "librería"
+
+    },
+    {
+        "id": "7",
+        "title": "c1",
+        "description": "",
+        "price": 100,
+        "pictureUrl": "",
+        "category": "chucherías"
+
+    },
+    {
+        "id": "8",
+        "title": "c2",
+        "description": "",
+        "price": 100,
+        "pictureUrl": "",
+        "category": "chucherías"
+
+    },
+    {
+        "id": "9",
+        "title": "c3",
+        "description": "",
+        "price": 100,
+        "pictureUrl": "",
+        "category": "chucherías"
+
+    }
+    
+]
