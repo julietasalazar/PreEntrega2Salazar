@@ -30,7 +30,7 @@ export const ItemListContainer = (props) => {
                 setProducts(productsFiltered);
             }
         });
-    }, []);
+    }, [id]);
 
 
 
